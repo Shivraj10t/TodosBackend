@@ -114,4 +114,5 @@ tmp/
 temp/
 
 # Environment variables file
+.env.env
 .env
